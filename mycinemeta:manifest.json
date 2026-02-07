@@ -1,11 +1,8 @@
 {
   "id": "com.linvo.cinemeta",
   "version": "3.0.14",
-  "name": "Cinemeta",
-  "contactEmail": null,
-  "description": "The official addon for movie and series catalogs",
-  "logo": null,
-  "background": null,
+  "name": "Mymeta",
+  "description": "Uoffficial addon for movie, series and anime catalogs",
   "types": [
     "movie",
     "series",
